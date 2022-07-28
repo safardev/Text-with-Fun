@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Text-with-Fun/static/css/main.31d6cfe0.css",
+    "main.js": "/Text-with-Fun/static/js/main.9e064067.js",
+    "static/js/787.f65f2b5e.chunk.js": "/Text-with-Fun/static/js/787.f65f2b5e.chunk.js",
+    "index.html": "/Text-with-Fun/index.html",
+    "main.9e064067.js.map": "/Text-with-Fun/static/js/main.9e064067.js.map",
+    "787.f65f2b5e.chunk.js.map": "/Text-with-Fun/static/js/787.f65f2b5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9e064067.js"
+  ]
+}
